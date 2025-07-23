@@ -1,9 +1,13 @@
 # 👋 Hello, I'm Tibério!
 
 🎓 Telecommunications Engineer
+
 💻 Developer with over 10 years of experience
+
 📍 Skilled in PHP, MySQL, HTML, CSS, JS, and C++
+
 🚀 Interested in AI, automation, and data analysis
+
 
 ## 🧰 Tecnologias e Ferramentas
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
