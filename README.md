@@ -1,3 +1,4 @@
+![logo](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c83c004e-1370-4756-88e5-4071de797088/de0dib6-0d584820-45d9-49c8-a54d-a33b98ac8372.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2M4M2MwMDRlLTEzNzAtNDc1Ni04OGU1LTQwNzFkZTc5NzA4OFwvZGUwZGliNi0wZDU4NDgyMC00NWQ5LTQ5YzgtYTU0ZC1hMzNiOThhYzgzNzIuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.oIKwFOK9Aqd8E2YOv8KDWQoSyNhyM_7E6T34Td20ZKE)
 # 👋 Hello, I'm Tibério!
 
 🎓 Telecommunications Engineer
@@ -20,7 +21,7 @@
 
 ## 📈 GitHub Stats
 
-![Tibério's GitHub stats](https://github-readme-stats.vercel.app/api?username=tiberiosoares&show_icons=true&theme=github_dark)
+![Tibério's GitHub stats](https://github-readme-stats.vercel.app/api?username=tbezerrasoares&show_icons=true&theme=github_dark)
 
 ## ✨ Projetos em destaque
 
@@ -29,7 +30,7 @@
 
 ## 📫 Contato
 
-- Email: 
+- Email: [tbezerrasoares@gmail.com](mailto:tbezerrasoares@gmail.com)
 - LinkedIn: [linkedin.com/in/seuperfil](https://linkedin.com/in/seuperfil)
 
 ---
